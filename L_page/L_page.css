@@ -1,0 +1,76 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    color: rgb(178, 196, 212);
+}
+#nav{
+    height: 80px;
+}
+#logo {
+color: rgb(182, 148, 1);
+font-size: 70px;
+text-decoration-line: none;
+margin-right: 180px;
+}
+#getin{
+font-weight: 900;
+font-style: italic;
+font-size: 60px;
+}
+#get{
+    height: 470px;
+    margin-left: 130px;
+    margin-top: 0%;
+}
+body{
+    background-image: url(Images/pexels-branimir-balogović-3959485.jpg);
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+a{
+    margin: 70px;
+    font-size: 20px;
+    text-decoration: none;
+}
+h1{
+    text-align: center;
+    color: rgb(154, 234, 240);
+}
+.click{
+    text-decoration: none;
+    margin-left: 20px;
+}
+#contact{
+    display: inline-block;
+    margin-left: 15px;
+    margin-top: 10px;
+}
+footer{
+   margin-top: 50%;
+    background-color: rgb(72, 70, 59);
+}
+#add{
+    margin-top: 10px;
+}
+#bglogo{
+    padding: 2px;
+    background-color: rgb(179, 212, 241);
+}
+#down{
+    padding: 0%;
+    margin: 0%px;
+    display: inline-block;
+}
+#add{
+    font-size: 20px;
+    margin-left: 40px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+p{
+    font-size: 25px;
+    font-weight: 350;
+    font-style: italic;
+    margin-top: 150px;
+    margin-left: -90px;
+}
